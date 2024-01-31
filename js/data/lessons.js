@@ -112,6 +112,42 @@ const data = {
               "english": "you are good"
             }
           ]
+        },
+        {
+          "challenges": [
+            {
+              "tokiPona": "mi moku",
+              "english": "I eat"
+            },
+            {
+              "tokiPona": "suno li suli",
+              "english": "the sun is big"
+            },
+            {
+              "tokiPona": "jan li moku",
+              "english": "somebody is eating"
+            },
+            {
+              "tokiPona": "telo li pona",
+              "english": "water is simple"
+            },
+            {
+              "tokiPona": "jan li pona",
+              "english": "people are good"
+            },
+            {
+              "tokiPona": "mi suli",
+              "english": "I'm important"
+            },
+            {
+              "tokiPona": "sina suli",
+              "english": "you're tall"
+            },
+            {
+              "tokiPona": "telo li suli",
+              "english": "the lake is big"
+            }
+          ]
         }
       ]
     }
