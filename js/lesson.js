@@ -25,12 +25,10 @@ displayChallenge(challenges[currentChallengeIndex]);
 
 nextButton.addEventListener('click', () => {
   currentChallengeIndex++;
-  if (currentChallengeIndex < challenges.length) {
-    displayChallenge(challenges[currentChallengeIndex]);
-  } else {
-    // All challenges have been seen, show the back button
+  displayChallenge(challenges[currentChallengeIndex]);
+  if (currentChallengeIndex == challenges.length - 1) {
+    // All challenges have been seen, so hide the next button
     nextButton.style.display = 'none';
-    backButton.style.display = 'block';
   }
 });
 
@@ -42,6 +40,11 @@ function displayChallenge(challenge) {
   sitelenPona.textContent = challenge.tokiPona;
   tokipona.textContent = challenge.tokiPona;
   english.textContent = challenge.english;
+
+  // Randomize whether the card is flipped
+  if (Math.random() > 0.5) {
+    flipCard();
+  }
 }
 
 function flipCard() {
