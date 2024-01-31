@@ -44,6 +44,50 @@ const data = {
         {
           "challenges": [
             {
+              "tokiPona": "mi",
+              "english": "I, me, we"
+            },
+            {
+              "tokiPona": "sina",
+              "english": "you"
+            },
+            {
+              "tokiPona": "moku",
+              "english": "food, eat, meal"
+            },
+            {
+              "tokiPona": "pona",
+              "english": "good, simple, positive, nice, correct, right"
+            },
+            {
+              "tokiPona": "telo",
+              "english": "water, liquid, juice, sauce"
+            },
+            {
+              "tokiPona": "suno",
+              "english": "sun, light, shine, bright"
+            },
+            {
+              "tokiPona": "ona",
+              "english": "she, he, it, they"
+            },
+            {
+              "tokiPona": "suli",
+              "english": "big, tall, long, adult, important"
+            },
+            {
+              "tokiPona": "jan",
+              "english": "person, people, human, somebody, anybody"
+            },
+            {
+              "tokiPona": "mi",
+              "english": "I, me, we"
+            }
+          ]
+        },
+        {
+          "challenges": [
+            {
               "tokiPona": "moku li pona",
               "english": "the food is good"
             },
