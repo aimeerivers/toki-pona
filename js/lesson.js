@@ -2,15 +2,20 @@ const urlParams = new URLSearchParams(window.location.search);
 const chapterNumber = Number(urlParams.get('chapter'));
 const lessonNumber = Number(urlParams.get('lesson'));
 
-let sitelenPona = document.getElementById('sitelen-pona');
-let tokipona = document.getElementById('toki-pona');
-let english = document.getElementById('english');
-let nextButton = document.getElementById('next-button');
-let backButton = document.getElementById('back-button');
+const sitelenPona = document.getElementById('sitelen-pona');
+const tokipona = document.getElementById('toki-pona');
+const english = document.getElementById('english');
+const nextButton = document.getElementById('next-button');
+const backButton = document.getElementById('back-button');
+const heading1 = document.getElementsByTagName('h1')[0];
+const heading2 = document.getElementsByTagName('h2')[0];
 
 const chapter = data.chapters[chapterNumber - 1];
 const lesson = chapter.lessons[lessonNumber - 1];
 let challenges = lesson.challenges;
+
+heading1.textContent = `Chapter ${chapterNumber}`;
+heading2.textContent = chapter.chapterName;
 
 // Randomize the order of the challenges
 challenges = challenges.sort(() => Math.random() - 0.5);

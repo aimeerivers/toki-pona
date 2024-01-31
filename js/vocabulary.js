@@ -1,7 +1,10 @@
 const urlParams = new URLSearchParams(window.location.search);
 const chapterNumber = Number(urlParams.get('chapter'));
 
-let backButton = document.getElementById('back-button');
+const backButton = document.getElementById('back-button');
+const heading1 = document.getElementsByTagName('h1')[0];
+
+heading1.textContent = `Chapter ${chapterNumber}`;
 
 // Find the selected chapter in the data
 const chapter = data.chapters[chapterNumber - 1];

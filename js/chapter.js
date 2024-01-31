@@ -3,8 +3,11 @@ const chapterNumber = Number(urlParams.get('chapter'));
 
 const chapter = data.chapters[chapterNumber - 1];
 
-// Get the lessons container
 const lessonsContainer = document.getElementById('lessons-container');
+const heading1 = document.getElementsByTagName('h1')[0];
+const heading2 = document.getElementsByTagName('h2')[0];
+heading1.textContent = `Chapter ${chapterNumber}`;
+heading2.textContent = chapter.chapterName;
 
 // Add a vocabulary link
 const vocabularyLink = document.createElement('a');
