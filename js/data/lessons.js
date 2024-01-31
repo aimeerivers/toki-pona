@@ -2,44 +2,6 @@ const data = {
   "chapters": [
     {
       "chapterName": "Basic sentences",
-      "vocabulary": [
-        {
-          "tokiPona": "mi",
-          "english": "I, me, we"
-        },
-        {
-          "tokiPona": "sina",
-          "english": "you"
-        },
-        {
-          "tokiPona": "moku",
-          "english": "food, eat, meal"
-        },
-        {
-          "tokiPona": "pona",
-          "english": "good, simple, positive, nice, correct, right"
-        },
-        {
-          "tokiPona": "telo",
-          "english": "water, liquid, juice, sauce"
-        },
-        {
-          "tokiPona": "suno",
-          "english": "sun, light, shine, bright"
-        },
-        {
-          "tokiPona": "ona",
-          "english": "she, he, it, they"
-        },
-        {
-          "tokiPona": "suli",
-          "english": "big, tall, long, adult, important"
-        },
-        {
-          "tokiPona": "jan",
-          "english": "person, people, human, somebody, anybody"
-        }
-      ],
       "lessons": [
         {
           "challenges": [
@@ -153,40 +115,6 @@ const data = {
     },
     {
       "chapterName": "Direct objects",
-      "vocabulary": [
-        {
-          "tokiPona": "ijo",
-          "english": "thing, something, stuff, anything, object"
-        },
-        {
-          "tokiPona": "ilo",
-          "english": "tool, device, machine, thing used for a specific purpose"
-        },
-        {
-          "tokiPona": "jo",
-          "english": "to have, to contain, to own"
-        },
-        {
-          "tokiPona": "kili",
-          "english": "fruit, pulpy vegetable, mushroom"
-        },
-        {
-          "tokiPona": "lukin",
-          "english": "to see, to look at, to watch, to read"
-        },
-        {
-          "tokiPona": "ma",
-          "english": "land, earth, country, (outdoor) area"
-        },
-        {
-          "tokiPona": "pakala",
-          "english": "blunder, accident, mistake, destruction, damage, breaking"
-        },
-        {
-          "tokiPona": "wile",
-          "english": "to want, need, wish, have to, must, will, should"
-        }
-      ],
       "lessons": [
         {
           "challenges": [

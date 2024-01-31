@@ -13,7 +13,8 @@ const chapter = data.chapters[chapterNumber - 1];
 const vocabularyContainer = document.getElementById('vocabulary-container');
 
 // Create a p element for each vocabulary item in the selected chapter
-chapter.vocabulary.forEach((vocabItem) => {
+// Vocabulary is always found in the first lesson of each chapter
+chapter.lessons[0].challenges.forEach((vocabItem) => {
   const vocabElement = document.createElement('p');
   vocabElement.className = 'w-64 mt-4 text-black dark:text-white py-2 px-4 rounded block text-center';
 
