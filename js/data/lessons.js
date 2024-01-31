@@ -207,8 +207,36 @@ const data = {
               "english": "I eat the food and look at the landscape"
             }
           ]
+        },
+        {
+          "challenges": [
+            {
+              "tokiPona": "kili li moku li pona",
+              "english": "pineapple is a food and is good"
+            },
+            {
+              "tokiPona": "ona li telo e ona",
+              "english": "he washes himself"
+            },
+            {
+              "tokiPona": "ona li moku e kili",
+              "english": "she's eating fruit"
+            },
+            {
+              "tokiPona": "ijo li lukin e mi",
+              "english": "something is watching me"
+            },
+            {
+              "tokiPona": "mi jan. mi suli",
+              "english": "I'm a person and I'm important"
+            },
+            {
+              "tokiPona": "mi jo e ilo",
+              "english": "I have a tool"
+            }
+          ]
         }
-      ],
+      ]
     }
   ]
 }
