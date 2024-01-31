@@ -1,7 +1,7 @@
 const data = {
   "chapters": [
     {
-      "chapterName": "Basic sentences",
+      "chapterName": "Basic Sentences",
       "lessons": [
         {
           "challenges": [
@@ -114,7 +114,7 @@ const data = {
       ]
     },
     {
-      "chapterName": "Direct objects",
+      "chapterName": "Direct Objects",
       "lessons": [
         {
           "challenges": [
