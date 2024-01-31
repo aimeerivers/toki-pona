@@ -38,6 +38,7 @@ backButton.addEventListener('click', () => {
 
 function displayChallenge(challenge) {
   sitelenPona.textContent = challenge.tokiPona;
+  emoji.textContent = emojify(challenge.tokiPona);
   tokipona.textContent = challenge.tokiPona;
   english.textContent = challenge.english;
 
