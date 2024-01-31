@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Learn Toki Pona</title>
+  <link rel="stylesheet" href="https://davidar.github.io/linja-pona/stylesheet.css">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-200 dark:bg-gray-900 flex flex-col justify-center items-center h-screen">
+  <div id="card" class="w-64 h-64 bg-gray-200 dark:bg-gray-900 cursor-pointer" onclick="flipCard()">
+
+    <div
+      class="front face flex flex-col items-center justify-center text-black bg-gray-50 dark:bg-gray-200 border border-gray-300 dark:border-gray-700 rounded-xl shadow-lg">
+      <div id="sitelen-pona" class="linja-pona font-bold text-6xl text-center p-4"></div>
+      <div id="toki-pona" class="text-2xl text-center p-4"></div>
+    </div>
+
+    <div
+      class="back face flex flex-col items-center justify-center text-black bg-gray-50 dark:bg-gray-200 border border-gray-300 dark:border-gray-700 rounded-xl shadow-lg">
+      <div id="english" class="text-3xl text-center p-4"></div>
+    </div>
+
+  </div>
+
+  <button id="next-button" class="mt-4 bg-blue-600 hover:bg-blue-500 text-white font-bold py-2 px-4 rounded">
+    Next
+  </button>
+
+  <button id="back-button" class="mt-4 bg-green-600 hover:bg-green-500 text-white font-bold py-2 px-4 rounded hidden">
+    Back
+  </button>
+
+  <script src="js/data/lessons.js"></script>
+  <script src="js/lesson.js"></script>
+</body>
+
+</html>

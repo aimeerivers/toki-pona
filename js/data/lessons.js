@@ -1,7 +1,6 @@
 const data = {
   "chapters": [
     {
-      "chapterNumber": 1,
       "chapterName": "Basic sentences",
       "vocabulary": [
         {
@@ -43,7 +42,6 @@ const data = {
       ],
       "lessons": [
         {
-          "lessonNumber": 1,
           "challenges": [
             {
               "tokiPona": "moku li pona",
