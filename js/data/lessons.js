@@ -150,6 +150,137 @@ const data = {
           ]
         }
       ]
+    },
+    {
+      "chapterName": "Direct objects",
+      "vocabulary": [
+        {
+          "tokiPona": "ijo",
+          "english": "thing, something, stuff, anything, object"
+        },
+        {
+          "tokiPona": "ilo",
+          "english": "tool, device, machine, thing used for a specific purpose"
+        },
+        {
+          "tokiPona": "jo",
+          "english": "to have, to contain, to own"
+        },
+        {
+          "tokiPona": "kili",
+          "english": "fruit, pulpy vegetable, mushroom"
+        },
+        {
+          "tokiPona": "lukin",
+          "english": "to see, to look at, to watch, to read"
+        },
+        {
+          "tokiPona": "ma",
+          "english": "land, earth, country, (outdoor) area"
+        },
+        {
+          "tokiPona": "pakala",
+          "english": "blunder, accident, mistake, destruction, damage, breaking"
+        },
+        {
+          "tokiPona": "wile",
+          "english": "to want, need, wish, have to, must, will, should"
+        }
+      ],
+      "lessons": [
+        {
+          "challenges": [
+            {
+              "tokiPona": "ijo",
+              "english": "thing, something, stuff, anything, object"
+            },
+            {
+              "tokiPona": "ilo",
+              "english": "tool, device, machine, thing used for a specific purpose"
+            },
+            {
+              "tokiPona": "jo",
+              "english": "to have, to contain, to own"
+            },
+            {
+              "tokiPona": "kili",
+              "english": "fruit, pulpy vegetable, mushroom"
+            },
+            {
+              "tokiPona": "lukin",
+              "english": "to see, to look at, to watch, to read"
+            },
+            {
+              "tokiPona": "ma",
+              "english": "land, earth, country, (outdoor) area"
+            },
+            {
+              "tokiPona": "pakala",
+              "english": "blunder, accident, mistake, destruction, damage, breaking"
+            },
+            {
+              "tokiPona": "wile",
+              "english": "to want, need, wish, have to, must, will, should"
+            }
+          ]
+        },
+        {
+          "challenges": [
+            {
+              "tokiPona": "mi moku e kili e telo",
+              "english": "I consume fruit and water"
+            },
+            {
+              "tokiPona": "mi telo e mi",
+              "english": "I wash myself"
+            },
+            {
+              "tokiPona": "jan li telo e ona",
+              "english": "a person washes himself"
+            },
+            {
+              "tokiPona": "mi moku. mi pakala",
+              "english": "I eat and destroy"
+            },
+            {
+              "tokiPona": "ona li telo e ona",
+              "english": "she washes herself"
+            },
+            {
+              "tokiPona": "mi pona e ijo",
+              "english": "I'm improving something"
+            },
+            {
+              "tokiPona": "mi wile lukin e ma e suno",
+              "english": "I want to see the land and the sun"
+            },
+            {
+              "tokiPona": "mi moku e kili e telo. mi lukin e ma e jan",
+              "english": "I consume fruits and water. I see land and people"
+            },
+            {
+              "tokiPona": "mi wile e ijo",
+              "english": "I want something"
+            },
+            {
+              "tokiPona": "sina telo e sina",
+              "english": "you wash yourself"
+            },
+            {
+              "tokiPona": "ona li pona e ilo",
+              "english": "she's fixing the machine"
+            },
+            {
+              "tokiPona": "mi moku e kili",
+              "english": "I eat fruit"
+            },
+            {
+              "tokiPona": "mi moku e moku. mi lukin e ma",
+              "english": "I eat the food and look at the landscape"
+            }
+          ]
+        }
+      ],
     }
   ]
 }
