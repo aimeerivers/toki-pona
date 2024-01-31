@@ -30,7 +30,7 @@ nextButton.addEventListener('click', () => {
 });
 
 backButton.addEventListener('click', () => {
-  window.location.href = 'index.html';
+  window.location.href = 'chapter.html?chapter=' + chapterNumber;
 });
 
 function displayChallenge(challenge) {
