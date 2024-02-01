@@ -120,3 +120,74 @@ chapters:
       english: I'm a person and I'm important
     - tokiPona: mi jo e ilo
       english: I have a tool
+
+- chapterName: Verbs and Adverbs
+  lessons:
+
+  - challenges:
+    - tokiPona: ike
+      english: bad, negative, wrong, evil, overly complex
+    - tokiPona: jaki
+      english: dirt, pollution, garbage, filth, feces
+    - tokiPona: lawa
+      english: head, main, leading, in charge
+    - tokiPona: lili
+      english: small, little, young, a bit, short, few, less
+    - tokiPona: mute
+      english: amount, quantity, very, much, many, several, a lot
+    - tokiPona: sewi
+      english: high, superior, divine, sacred, religious, formal
+    - tokiPona: tomo
+      english: indoor constructed space, e.g. house, home, room, building
+    - tokiPona: utala
+      english: conflict, disharmony, competition, fight, war, battle, attack, violence
+
+  - challenges:
+    - tokiPona: mi wile pakala e sina
+      english: I must destroy you
+    - tokiPona: "sina kama e ni: mi wile moku"
+      english: "you caused this: I want to eat"
+    - tokiPona: sina lukin e suno
+      english: you look at the sun
+    - tokiPona: ona li wile jo e ilo
+      english: he would like to have a tool
+    - tokiPona: mi utala ike
+      english: I fight badly
+    - tokiPona: mi lukin lili e ona
+      english: I barely saw it
+    - tokiPona: mi wile lukin e ma
+      english: I want to see the countryside
+    - tokiPona: mi lawa pona e jan
+      english: I lead people well
+    - tokiPona: mi kama jo e telo
+      english: I got the water
+    - tokiPona: ona li wile mute e ni
+      english: he wants that a lot
+
+  - challenges:
+    - tokiPona: ona li moku e kili
+      english: she's eating fruit
+    - tokiPona: suno li seli e ma
+      english: the sun heats up the land
+    - tokiPona: mi wile pona e ona
+      english: I want to make them better
+    - tokiPona: ona li jo ala e len mute
+      english: she doesn't have a lot of clothing
+    - tokiPona: ona li mute e ijo
+      english: she multiplies the thing
+    - tokiPona: ona li wile pakala e ilo
+      english: he wants to break the tool
+    - tokiPona: ona li pona
+      english: she's good
+    - tokiPona: sina jo e len nasa
+      english: you have silly clothing
+    - tokiPona: ona li lawa e utala
+      english: he leads the battle
+    - tokiPona: jan li wile lawa e ma
+      english: people want to own land
+    - tokiPona: ilo li sewi e sewi
+      english: the machine elevates the roof
+    - tokiPona: ona li wile moku e telo
+      english: she is thirsty
+    - tokiPona: jaki li jaki lili e mi
+      english: the garbage made me a bit dirty
