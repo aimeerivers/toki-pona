@@ -1,0 +1,10 @@
+{
+  "name": "toki-pona",
+  "version": "1.0.0",
+  "description": "Learn Toki Pona",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC"
+}
