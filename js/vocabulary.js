@@ -4,10 +4,10 @@ const chapterNumber = Number(urlParams.get('chapter'));
 const backButton = document.getElementById('back-button');
 const heading1 = document.getElementsByTagName('h1')[0];
 
-heading1.textContent = `Chapter ${chapterNumber}`;
-
 // Find the selected chapter in the data
 const chapter = data.chapters[chapterNumber - 1];
+
+heading1.textContent = `Chapter ${chapterNumber}: ${chapter.chapterName}`;
 
 // Get the vocabulary container
 const vocabularyContainer = document.getElementById('vocabulary-container');
