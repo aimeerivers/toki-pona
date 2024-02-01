@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Learn Toki Pona",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "data:convert": "node data/convert.js"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
