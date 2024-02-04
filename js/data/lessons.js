@@ -51,7 +51,7 @@ const data = {
           "challenges": [
             {
               "tokiPona": "moku li pona",
-              "english": "the food is good"
+              "english": "The food is good"
             },
             {
               "tokiPona": "mi moku",
@@ -59,19 +59,19 @@ const data = {
             },
             {
               "tokiPona": "telo li pona",
-              "english": "water is good"
+              "english": "Water is good"
             },
             {
               "tokiPona": "suno li suno",
-              "english": "the sun is shining"
+              "english": "The sun is shining"
             },
             {
               "tokiPona": "ona li moku",
-              "english": "they eat"
+              "english": "They eat"
             },
             {
               "tokiPona": "sina pona",
-              "english": "you are good"
+              "english": "You are good"
             }
           ]
         },
@@ -83,19 +83,19 @@ const data = {
             },
             {
               "tokiPona": "suno li suli",
-              "english": "the sun is big"
+              "english": "The sun is big"
             },
             {
               "tokiPona": "jan li moku",
-              "english": "somebody is eating"
+              "english": "Somebody is eating"
             },
             {
               "tokiPona": "telo li pona",
-              "english": "water is simple"
+              "english": "Water is simple"
             },
             {
               "tokiPona": "jan li pona",
-              "english": "people are good"
+              "english": "People are good"
             },
             {
               "tokiPona": "mi suli",
@@ -103,11 +103,11 @@ const data = {
             },
             {
               "tokiPona": "sina suli",
-              "english": "you're tall"
+              "english": "You're tall"
             },
             {
               "tokiPona": "telo li suli",
-              "english": "the lake is big"
+              "english": "The lake is big"
             }
           ]
         }
@@ -164,7 +164,7 @@ const data = {
             },
             {
               "tokiPona": "jan li telo e ona",
-              "english": "a person washes himself"
+              "english": "A person washes himself"
             },
             {
               "tokiPona": "mi moku. mi pakala",
@@ -172,7 +172,7 @@ const data = {
             },
             {
               "tokiPona": "ona li telo e ona",
-              "english": "she washes herself"
+              "english": "She washes herself"
             },
             {
               "tokiPona": "mi pona e ijo",
@@ -192,11 +192,11 @@ const data = {
             },
             {
               "tokiPona": "sina telo e sina",
-              "english": "you wash yourself"
+              "english": "You wash yourself"
             },
             {
               "tokiPona": "ona li pona e ilo",
-              "english": "she's fixing the machine"
+              "english": "She's fixing the machine"
             },
             {
               "tokiPona": "mi moku e kili",
@@ -212,19 +212,19 @@ const data = {
           "challenges": [
             {
               "tokiPona": "kili li moku li pona",
-              "english": "pineapple is a food and is good"
+              "english": "Pineapple is a food and is good"
             },
             {
               "tokiPona": "ona li telo e ona",
-              "english": "he washes himself"
+              "english": "He washes himself"
             },
             {
               "tokiPona": "ona li moku e kili",
-              "english": "she's eating fruit"
+              "english": "She's eating fruit"
             },
             {
               "tokiPona": "ijo li lukin e mi",
-              "english": "something is watching me"
+              "english": "Something is watching me"
             },
             {
               "tokiPona": "mi jan. mi suli",
@@ -285,15 +285,15 @@ const data = {
             },
             {
               "tokiPona": "sina kama e ni: mi wile moku",
-              "english": "you caused this: I want to eat"
+              "english": "You caused this: I want to eat"
             },
             {
               "tokiPona": "sina lukin e suno",
-              "english": "you look at the sun"
+              "english": "You look at the sun"
             },
             {
               "tokiPona": "ona li wile jo e ilo",
-              "english": "he would like to have a tool"
+              "english": "He would like to have a tool"
             },
             {
               "tokiPona": "mi utala ike",
@@ -317,7 +317,7 @@ const data = {
             },
             {
               "tokiPona": "ona li wile mute e ni",
-              "english": "he wants that a lot"
+              "english": "He wants that a lot"
             }
           ]
         },
@@ -325,7 +325,7 @@ const data = {
           "challenges": [
             {
               "tokiPona": "ona li moku e kili",
-              "english": "she's eating fruit"
+              "english": "She's eating fruit"
             },
             {
               "tokiPona": "mi wile pona e ona",
@@ -333,31 +333,31 @@ const data = {
             },
             {
               "tokiPona": "ona li mute e ijo",
-              "english": "she multiplies the thing"
+              "english": "She multiplies the thing"
             },
             {
               "tokiPona": "ona li wile pakala e ilo",
-              "english": "he wants to break the tool"
+              "english": "He wants to break the tool"
             },
             {
               "tokiPona": "ona li pona",
-              "english": "she's good"
+              "english": "She's good"
             },
             {
               "tokiPona": "ona li lawa e utala",
-              "english": "he leads the battle"
+              "english": "He leads the battle"
             },
             {
               "tokiPona": "jan li wile lawa e ma",
-              "english": "people want to own land"
+              "english": "People want to own land"
             },
             {
               "tokiPona": "ona li wile moku e telo",
-              "english": "she is thirsty"
+              "english": "She is thirsty"
             },
             {
               "tokiPona": "jaki li jaki lili e mi",
-              "english": "the garbage made me a bit dirty"
+              "english": "The garbage made me a bit dirty"
             }
           ]
         }
@@ -410,43 +410,43 @@ const data = {
           "challenges": [
             {
               "tokiPona": "suno li seli e ma",
-              "english": "the sun heats up the land"
+              "english": "The sun heats up the land"
             },
             {
               "tokiPona": "ona li jo ala e len mute",
-              "english": "she doesn't have a lot of clothing"
+              "english": "She doesn't have a lot of clothing"
             },
             {
               "tokiPona": "sina jo e len nasa",
-              "english": "you have silly clothing"
+              "english": "You have silly clothing"
             },
             {
               "tokiPona": "ilo li sewi e sewi",
-              "english": "the machine elevates the roof"
+              "english": "The machine elevates the roof"
             },
             {
               "tokiPona": "jan li pona mute",
-              "english": "the human being is very good"
+              "english": "The human being is very good"
             },
             {
               "tokiPona": "jan li pona",
-              "english": "the person is good"
+              "english": "The person is good"
             },
             {
               "tokiPona": "jan li lukin e ni",
-              "english": "the person is looking at this"
+              "english": "The person is looking at this"
             },
             {
               "tokiPona": "jan ni li pona",
-              "english": "this person is good"
+              "english": "This person is good"
             },
             {
               "tokiPona": "ni li pona",
-              "english": "this is good"
+              "english": "This is good"
             },
             {
               "tokiPona": "jan li lukin e ijo ni",
-              "english": "the person is looking at this thing"
+              "english": "The person is looking at this thing"
             }
           ]
         },
@@ -454,15 +454,15 @@ const data = {
           "challenges": [
             {
               "tokiPona": "jan ike ni li jo e len nasa",
-              "english": "that bad person has strange clothes"
+              "english": "That bad person has strange clothes"
             },
             {
               "tokiPona": "jan lawa li moku e telo jaki",
-              "english": "the leader drank dirty water"
+              "english": "The leader drank dirty water"
             },
             {
               "tokiPona": "seli suno li seli e tomo mi",
-              "english": "the sun's warmth heats my home"
+              "english": "The sun's warmth heats my home"
             },
             {
               "tokiPona": "mi kama e pakala",
@@ -470,7 +470,7 @@ const data = {
             },
             {
               "tokiPona": "jan ike li utala e ona mute",
-              "english": "an enemy is attacking them"
+              "english": "An enemy is attacking them"
             },
             {
               "tokiPona": "mi lukin e tomo suli",
@@ -482,15 +482,15 @@ const data = {
             },
             {
               "tokiPona": "jan lili li lukin e jan suli",
-              "english": "children watch adults"
+              "english": "Children watch adults"
             },
             {
               "tokiPona": "mi mute li moku e telo nasa mute",
-              "english": "we drank a lot of vodka"
+              "english": "We drank a lot of vodka"
             },
             {
               "tokiPona": "ona li pona li lili",
-              "english": "it is good and small"
+              "english": "It is good and small"
             },
             {
               "tokiPona": "mi moku lili e kili lili",
@@ -502,7 +502,7 @@ const data = {
             },
             {
               "tokiPona": "jan lili li wile e telo kili",
-              "english": "children want fruit juice"
+              "english": "Children want fruit juice"
             },
             {
               "tokiPona": "mi lukin e ni",
