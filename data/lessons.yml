@@ -1,7 +1,7 @@
 ---
 chapters:
 
-- chapterName: Basic Sentences
+- chapterName: 👈 Basic Sentences
   lessons:
 
   - challenges:
@@ -58,7 +58,7 @@ chapters:
     - tokiPona: telo li suli
       english: The lake is big
 
-- chapterName: Direct Objects
+- chapterName: 🐚 Direct Objects
   lessons:
 
   - challenges:
@@ -121,7 +121,7 @@ chapters:
     - tokiPona: mi jo e ilo
       english: I have a tool
 
-- chapterName: Verbs and Adverbs
+- chapterName: 👎 Verbs and Adverbs
   lessons:
 
   - challenges:
@@ -184,7 +184,7 @@ chapters:
     - tokiPona: jaki li jaki lili e mi
       english: The garbage made me a bit dirty
 
-- chapterName: Nouns and Adjectives
+- chapterName: 🚶 Nouns and Adjectives
   lessons:
 
   - challenges:

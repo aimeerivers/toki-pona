@@ -7,7 +7,7 @@ const heading1 = document.getElementsByTagName('h1')[0];
 // Find the selected chapter in the data
 const chapter = data.chapters[chapterNumber - 1];
 
-heading1.textContent = `Chapter ${chapterNumber}: ${chapter.chapterName}`;
+heading1.textContent = chapter.chapterName;
 
 // Get the vocabulary container
 const vocabularyContainer = document.getElementById('vocabulary-container');
