@@ -328,16 +328,8 @@ const data = {
               "english": "she's eating fruit"
             },
             {
-              "tokiPona": "suno li seli e ma",
-              "english": "the sun heats up the land"
-            },
-            {
               "tokiPona": "mi wile pona e ona",
               "english": "I want to make them better"
-            },
-            {
-              "tokiPona": "ona li jo ala e len mute",
-              "english": "she doesn't have a lot of clothing"
             },
             {
               "tokiPona": "ona li mute e ijo",
@@ -352,10 +344,6 @@ const data = {
               "english": "she's good"
             },
             {
-              "tokiPona": "sina jo e len nasa",
-              "english": "you have silly clothing"
-            },
-            {
               "tokiPona": "ona li lawa e utala",
               "english": "he leads the battle"
             },
@@ -364,16 +352,161 @@ const data = {
               "english": "people want to own land"
             },
             {
-              "tokiPona": "ilo li sewi e sewi",
-              "english": "the machine elevates the roof"
-            },
-            {
               "tokiPona": "ona li wile moku e telo",
               "english": "she is thirsty"
             },
             {
               "tokiPona": "jaki li jaki lili e mi",
               "english": "the garbage made me a bit dirty"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapterName": "Nouns and Adjectives",
+      "lessons": [
+        {
+          "challenges": [
+            {
+              "tokiPona": "kama",
+              "english": "to come, to become, to arrive, to happen, to cause"
+            },
+            {
+              "tokiPona": "len",
+              "english": "clothing, cloth, fabric, material, internet"
+            },
+            {
+              "tokiPona": "mama",
+              "english": "parent, mother, father, caretaker, ancestor"
+            },
+            {
+              "tokiPona": "meli",
+              "english": "woman, female, girl, wife, girlfriend"
+            },
+            {
+              "tokiPona": "mije",
+              "english": "man, male, husband, boyfriend"
+            },
+            {
+              "tokiPona": "nasa",
+              "english": "silly, drunk, foolish, weird, unusual"
+            },
+            {
+              "tokiPona": "ni",
+              "english": "this, that"
+            },
+            {
+              "tokiPona": "seli",
+              "english": "hot, warm, cooked"
+            },
+            {
+              "tokiPona": "toki",
+              "english": "language, talking, speech, tongue, lingo, jargon, communication"
+            }
+          ]
+        },
+        {
+          "challenges": [
+            {
+              "tokiPona": "suno li seli e ma",
+              "english": "the sun heats up the land"
+            },
+            {
+              "tokiPona": "ona li jo ala e len mute",
+              "english": "she doesn't have a lot of clothing"
+            },
+            {
+              "tokiPona": "sina jo e len nasa",
+              "english": "you have silly clothing"
+            },
+            {
+              "tokiPona": "ilo li sewi e sewi",
+              "english": "the machine elevates the roof"
+            },
+            {
+              "tokiPona": "jan li pona mute",
+              "english": "the human being is very good"
+            },
+            {
+              "tokiPona": "jan li pona",
+              "english": "the person is good"
+            },
+            {
+              "tokiPona": "jan li lukin e ni",
+              "english": "the person is looking at this"
+            },
+            {
+              "tokiPona": "jan ni li pona",
+              "english": "this person is good"
+            },
+            {
+              "tokiPona": "ni li pona",
+              "english": "this is good"
+            },
+            {
+              "tokiPona": "jan li lukin e ijo ni",
+              "english": "the person is looking at this thing"
+            }
+          ]
+        },
+        {
+          "challenges": [
+            {
+              "tokiPona": "jan ike ni li jo e len nasa",
+              "english": "that bad person has strange clothes"
+            },
+            {
+              "tokiPona": "jan lawa li moku e telo jaki",
+              "english": "the leader drank dirty water"
+            },
+            {
+              "tokiPona": "seli suno li seli e tomo mi",
+              "english": "the sun's warmth heats my home"
+            },
+            {
+              "tokiPona": "mi kama e pakala",
+              "english": "I caused an accident"
+            },
+            {
+              "tokiPona": "jan ike li utala e ona mute",
+              "english": "an enemy is attacking them"
+            },
+            {
+              "tokiPona": "mi lukin e tomo suli",
+              "english": "I am looking at the big building"
+            },
+            {
+              "tokiPona": "mi wile e ilo moku",
+              "english": "I need a fork"
+            },
+            {
+              "tokiPona": "jan lili li lukin e jan suli",
+              "english": "children watch adults"
+            },
+            {
+              "tokiPona": "mi mute li moku e telo nasa mute",
+              "english": "we drank a lot of vodka"
+            },
+            {
+              "tokiPona": "ona li pona li lili",
+              "english": "it is good and small"
+            },
+            {
+              "tokiPona": "mi moku lili e kili lili",
+              "english": "I nibble the small fruit"
+            },
+            {
+              "tokiPona": "mi jo e kili",
+              "english": "I have a fruit"
+            },
+            {
+              "tokiPona": "jan lili li wile e telo kili",
+              "english": "children want fruit juice"
+            },
+            {
+              "tokiPona": "mi lukin e ni",
+              "english": "I am looking at that"
             }
           ]
         }
