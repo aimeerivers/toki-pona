@@ -511,6 +511,115 @@ const data = {
           ]
         }
       ]
+    },
+    {
+      "chapterName": "🔧 Indirect Objects",
+      "lessons": [
+        {
+          "challenges": [
+            {
+              "tokiPona": "kepeken",
+              "english": "use, usage, tool"
+            },
+            {
+              "tokiPona": "kiwen",
+              "english": "hard thing, rock, stone, metal, mineral, clay"
+            },
+            {
+              "tokiPona": "kon",
+              "english": "air, wind, smell, soul, spirit"
+            },
+            {
+              "tokiPona": "lon",
+              "english": "true, existing, correct, real, genuine"
+            },
+            {
+              "tokiPona": "pana",
+              "english": "to give, to put, to send, to place, to release, to emit, to cause"
+            },
+            {
+              "tokiPona": "poki",
+              "english": "container, box, bowl, cup, glass, jar, shell"
+            },
+            {
+              "tokiPona": "tawa",
+              "english": "to walk, to travel, to move, to leave, to visit"
+            }
+          ]
+        },
+        {
+          "challenges": [
+            {
+              "tokiPona": "mi kon e ilo suno",
+              "english": "I apply air to the candle"
+            },
+            {
+              "tokiPona": "pona li kama",
+              "english": "The good will come"
+            },
+            {
+              "tokiPona": "sina wile kepeken ilo",
+              "english": "You have to use tools"
+            },
+            {
+              "tokiPona": "mi kepeken poki ni",
+              "english": "I'm using that cup"
+            },
+            {
+              "tokiPona": "mi lon tomo",
+              "english": "I'm in the house"
+            },
+            {
+              "tokiPona": "jan ni li pana ike e kon",
+              "english": "This person exhaling badly"
+            },
+            {
+              "tokiPona": "mi kepeken ilo",
+              "english": "I'm using tools"
+            },
+            {
+              "tokiPona": "kili li lon poki",
+              "english": "The fruit is in the basket"
+            },
+            {
+              "tokiPona": "suno li lon sewi",
+              "english": "The sun is in the sky"
+            },
+            {
+              "tokiPona": "tomo ni li pakala",
+              "english": "This house is falling apart"
+            },
+            {
+              "tokiPona": "mi wile lon tomo",
+              "english": "I want to be in the house"
+            }
+          ]
+        },
+        {
+          "challenges": [
+            {
+              "tokiPona": "ni li tawa jan pona mi",
+              "english": "This is for my friend"
+            },
+            {
+              "tokiPona": "poki ni li lon ma",
+              "english": "That bottle is in the dirt"
+            },
+            {
+              "tokiPona": "ilo li lon poki",
+              "english": "The tools are in the container"
+            },
+            {
+              "tokiPona": "meli li lon e jan lili ona",
+              "english": "The woman gave birth to her child"
+            },
+            {
+              "tokiPona": "ona mute li toki utala",
+              "english": "They are arguing"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
