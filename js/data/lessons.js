@@ -620,6 +620,239 @@ const data = {
           ]
         }
       ]
+    },
+    {
+      "chapterName": "♾️ Prepositional Objects",
+      "lessons": [
+        {
+          "challenges": [
+            {
+              "tokiPona": "ali",
+              "english": "everything, anything, life, the universe, all, complete, whole"
+            },
+            {
+              "tokiPona": "pipi",
+              "english": "bug, insect, spider, worm"
+            },
+            {
+              "tokiPona": "sama",
+              "english": "same, equal, similar, of equal status or position"
+            },
+            {
+              "tokiPona": "sona",
+              "english": "to know, to understand, to be skilled"
+            },
+            {
+              "tokiPona": "tan",
+              "english": "origin, cause"
+            }
+          ]
+        },
+        {
+          "challenges": [
+            {
+              "tokiPona": "mi moku tan ni: mi wile moku",
+              "english": "I eat because I'm hungry"
+            },
+            {
+              "tokiPona": "ona li kama tawa tomo mi",
+              "english": "He came to my house"
+            },
+            {
+              "tokiPona": "sina toki e ni tawa mi: \"mi moku\"",
+              "english": "You told me, \"I am eating\""
+            },
+            {
+              "tokiPona": "ona mute li tawa utala",
+              "english": "They're going to the war"
+            },
+            {
+              "tokiPona": "mi pona e tomo tawa. mi wile kepeken ilo ni",
+              "english": "I repair the car. I want to use this tool"
+            },
+            {
+              "tokiPona": "ni li pona tawa mi",
+              "english": "This is good for me"
+            },
+            {
+              "tokiPona": "ma li pona lukin",
+              "english": "The countryside is good to look at"
+            },
+            {
+              "tokiPona": "telo suli li ike tawa mi",
+              "english": "I don't like the ocean"
+            },
+            {
+              "tokiPona": "mi moku lon tomo",
+              "english": "I eat in the house"
+            },
+            {
+              "tokiPona": "utala li ike tawa mi",
+              "english": "I don't like conflict"
+            },
+            {
+              "tokiPona": "ona li tawa kiwen",
+              "english": "She's going to the rock"
+            },
+            {
+              "tokiPona": "mi moku kepeken ilo moku",
+              "english": "I eat using an eating utensil"
+            }
+          ]
+        },
+        {
+          "challenges": [
+            {
+              "tokiPona": "mi pona e tomo tawa. mi kepeken ilo ni",
+              "english": "I repair the car. I use this tool"
+            },
+            {
+              "tokiPona": "ona li kama tawa ma mi",
+              "english": "He's coming to my country"
+            },
+            {
+              "tokiPona": "sina wile tawa telo suli",
+              "english": "You want to go to the ocean"
+            },
+            {
+              "tokiPona": "ali li pona tawa mi",
+              "english": "Everything's fine to me"
+            },
+            {
+              "tokiPona": "mi toki tawa sina",
+              "english": "I talk to you"
+            },
+            {
+              "tokiPona": "jan ni li sama mi",
+              "english": "That person is like me"
+            },
+            {
+              "tokiPona": "ni li ike tawa mi",
+              "english": "That is bad to me"
+            },
+            {
+              "tokiPona": "ni li tomo. mi pana e ona tawa sina",
+              "english": "This is a house. I give it to you"
+            },
+            {
+              "tokiPona": "mi jo e tomo tawa sina. mi pana e ona tawa sina",
+              "english": "I have your car. I give it to you"
+            },
+            {
+              "tokiPona": "mi wile lon tomo",
+              "english": "I want to be at home"
+            },
+            {
+              "tokiPona": "ona li sama pipi",
+              "english": "He is like a bug"
+            },
+            {
+              "tokiPona": "ma ali li pona tawa mi",
+              "english": "All nations are good to me"
+            }
+          ]
+        },
+        {
+          "challenges": [
+            {
+              "tokiPona": "mi tawa tomo mi",
+              "english": "I'm going to my house"
+            },
+            {
+              "tokiPona": "mi tawa sewi e kiwen",
+              "english": "I'm moving the rock upwards"
+            },
+            {
+              "tokiPona": "kili li pona tawa mi",
+              "english": "I like fruit"
+            },
+            {
+              "tokiPona": "mi telo e mi lon tomo telo",
+              "english": "I bathe myself in the restroom"
+            },
+            {
+              "tokiPona": "mi wile e ni: mi lon tomo",
+              "english": "I want this: I'm at home"
+            },
+            {
+              "tokiPona": "mi tawa tomo mi",
+              "english": "I'm moving to my house"
+            },
+            {
+              "tokiPona": "mi pona e tomo tawa kepeken ilo ni",
+              "english": "I repair the car with this tool"
+            },
+            {
+              "tokiPona": "mi lukin kepeken ilo suno",
+              "english": "I look using a flashlight"
+            },
+            {
+              "tokiPona": "toki li pona tawa mi",
+              "english": "I like talking"
+            },
+            {
+              "tokiPona": "mi lukin e ma. ni li pona tawa mi",
+              "english": "I'm watching the countryside. This is good for me"
+            },
+            {
+              "tokiPona": "mi tawa sina",
+              "english": "I'll visit you"
+            },
+            {
+              "tokiPona": "pipi li ike mute tawa mi",
+              "english": "I hate spiders"
+            },
+            {
+              "tokiPona": "ona li lawa e jan tawa ma pona",
+              "english": "He led the people to the good land"
+            }
+          ]
+        },
+        {
+          "challenges": [
+            {
+              "tokiPona": "mi mute li pana e moku tawa ona mute",
+              "english": "We gave food to them"
+            },
+            {
+              "tokiPona": "mi wile tawa tomo ona kepeken tomo tawa mi",
+              "english": "I want to go to his house using my car"
+            },
+            {
+              "tokiPona": "jan li sama pipi",
+              "english": "People are like ants"
+            },
+            {
+              "tokiPona": "mi tawa tomo toki. ona li pona tawa mi",
+              "english": "I go to the chat room. I like it"
+            },
+            {
+              "tokiPona": "sina wile kama lon tomo toki",
+              "english": "You want to come in the chat room"
+            },
+            {
+              "tokiPona": "mi pona e ilo suno kepeken ilo lili",
+              "english": "I fixed the flashlight using a small tool"
+            },
+            {
+              "tokiPona": "toki pona li pona tawa mi",
+              "english": "I like Toki Pona"
+            },
+            {
+              "tokiPona": "mi sona e tan",
+              "english": "I know the reason"
+            },
+            {
+              "tokiPona": "jan li toki kepeken toki pona lon tomo toki",
+              "english": "People talk using Toki Pona in the chat room"
+            },
+            {
+              "tokiPona": "sina kama jo e jan pona lon ni",
+              "english": "You will make friends here"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
