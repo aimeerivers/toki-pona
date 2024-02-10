@@ -5,6 +5,6 @@ data.chapters.forEach((chapter, index) => {
   const chapterLink = document.createElement('a');
   chapterLink.href = `chapter.html?chapter=${index + 1}`;
   chapterLink.textContent = chapter.chapterName;
-  chapterLink.className = 'w-64 mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded block text-left';
+  chapterLink.className = 'w-64 mt-4 bg-blue-600 hover:bg-blue-500 text-white font-bold py-2 px-4 rounded block text-left';
   chaptersContainer.appendChild(chapterLink);
 });
