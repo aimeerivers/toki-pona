@@ -1,7 +1,8 @@
 const data = {
   "chapters": [
     {
-      "chapterName": "👈 Basic Sentences",
+      "chapterName": "Basic Sentences",
+      "chapterEmoji": "👈",
       "lessons": [
         {
           "challenges": [
@@ -114,7 +115,8 @@ const data = {
       ]
     },
     {
-      "chapterName": "🐚 Direct Objects",
+      "chapterName": "Direct Objects",
+      "chapterEmoji": "🐚",
       "lessons": [
         {
           "challenges": [
@@ -239,7 +241,8 @@ const data = {
       ]
     },
     {
-      "chapterName": "👎 Verbs and Adverbs",
+      "chapterName": "Verbs and Adverbs",
+      "chapterEmoji": "👎",
       "lessons": [
         {
           "challenges": [
@@ -364,7 +367,8 @@ const data = {
       ]
     },
     {
-      "chapterName": "🚶 Nouns and Adjectives",
+      "chapterName": "Nouns and Adjectives",
+      "chapterEmoji": "🚶",
       "lessons": [
         {
           "challenges": [
@@ -513,7 +517,8 @@ const data = {
       ]
     },
     {
-      "chapterName": "🔧 Indirect Objects",
+      "chapterName": "Indirect Objects",
+      "chapterEmoji": "🔧",
       "lessons": [
         {
           "challenges": [
@@ -622,7 +627,8 @@ const data = {
       ]
     },
     {
-      "chapterName": "♾️ Prepositional Objects",
+      "chapterName": "Prepositional Objects",
+      "chapterEmoji": "♾️",
       "lessons": [
         {
           "challenges": [
