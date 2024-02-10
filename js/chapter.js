@@ -6,7 +6,7 @@ const chapter = data.chapters[chapterNumber - 1];
 const lessonsContainer = document.getElementById('lessons-container');
 const heading1 = document.getElementsByTagName('h1')[0];
 
-heading1.textContent = chapter.chapterName;
+heading1.textContent = `${chapter.chapterEmoji} ${chapter.chapterName}`;
 
 // Add a vocabulary link
 const vocabularyLink = document.createElement('a');

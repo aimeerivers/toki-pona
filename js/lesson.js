@@ -14,7 +14,7 @@ const chapter = data.chapters[chapterNumber - 1];
 const lesson = chapter.lessons[lessonNumber - 1];
 let challenges = lesson.challenges;
 
-heading1.textContent = chapter.chapterName;
+heading1.textContent = `${chapter.chapterEmoji} ${chapter.chapterName}`;
 heading2.textContent = `Lesson ${lessonNumber}`;
 
 // Randomize the order of the challenges
