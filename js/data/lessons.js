@@ -859,6 +859,124 @@ const data = {
           ]
         }
       ]
+    },
+    {
+      "chapterName": "Location",
+      "chapterEmoji": "⬇️",
+      "lessons": [
+        {
+          "challenges": [
+            {
+              "tokiPona": "anpa",
+              "english": "bottom, lower part, under, below, floor, beneath, defeat"
+            },
+            {
+              "tokiPona": "insa",
+              "english": "inner, internal, center"
+            },
+            {
+              "tokiPona": "monsi",
+              "english": "back, rear, behind"
+            },
+            {
+              "tokiPona": "poka",
+              "english": "nearby, next to, side, hip"
+            },
+            {
+              "tokiPona": "sinpin",
+              "english": "face, front, foremost, wall, chest, torso"
+            },
+            {
+              "tokiPona": "noka",
+              "english": "leg, foot, lower part of a person"
+            }
+          ]
+        },
+        {
+          "challenges": [
+            {
+              "tokiPona": "telo suli li lon monsi mi",
+              "english": "The sea is behind me"
+            },
+            {
+              "tokiPona": "ona li lon sewi mi",
+              "english": "It is above me"
+            },
+            {
+              "tokiPona": "moku li lon insa mi",
+              "english": "Food is inside me"
+            },
+            {
+              "tokiPona": "mi tawa anpa lon noka sina",
+              "english": "I bow at your feet"
+            },
+            {
+              "tokiPona": "ona li pona e ilo lon tomo ona",
+              "english": "He repairs the tools in his house"
+            },
+            {
+              "tokiPona": "mi moku lon poka sina",
+              "english": "I'm eating beside you"
+            },
+            {
+              "tokiPona": "ma li lon noka mi",
+              "english": "Land is at my feet"
+            },
+            {
+              "tokiPona": "tomo li lon sinpin mi",
+              "english": "The house is in front of me"
+            },
+            {
+              "tokiPona": "mi anpa e jan utala",
+              "english": "I defeated the warrior"
+            },
+            {
+              "tokiPona": "pipi li lon anpa mi",
+              "english": "The bug is underneath me"
+            }
+          ]
+        },
+        {
+          "challenges": [
+            {
+              "tokiPona": "jan pona mi li lon poka mi",
+              "english": "My friend is beside me"
+            },
+            {
+              "tokiPona": "suno li lon sewi mi",
+              "english": "The sun is above me"
+            },
+            {
+              "tokiPona": "mi pona tan ni: mi lon",
+              "english": "I'm okay because I'm alive"
+            },
+            {
+              "tokiPona": "jan li lon insa tomo",
+              "english": "Somebody's inside the house"
+            },
+            {
+              "tokiPona": "ijo ike li lon monsi mi",
+              "english": "Bad things are behind me"
+            },
+            {
+              "tokiPona": "poka mi li pakala",
+              "english": "My hip is broken"
+            },
+            {
+              "tokiPona": "mi kepeken poki. mi kepeken ilo moku",
+              "english": "I'm using a bowl and a spoon"
+            },
+            {
+              "tokiPona": "ma li lon anpa mi",
+              "english": "The land is beneath me"
+            },
+            {
+              "tokiPona": "mi lukin e ma lon poka sina",
+              "english": "I look at the land with you"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
