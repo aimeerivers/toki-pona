@@ -977,6 +977,208 @@ const data = {
           ]
         }
       ]
+    },
+    {
+      "chapterName": "Negation",
+      "chapterEmoji": "❌",
+      "lessons": [
+        {
+          "challenges": [
+            {
+              "tokiPona": "ala",
+              "english": "nothing, negation, no, not, none, zero"
+            },
+            {
+              "tokiPona": "ken",
+              "english": "ability, power, possibility, to be able to, can"
+            },
+            {
+              "tokiPona": "lape",
+              "english": "sleep, rest"
+            },
+            {
+              "tokiPona": "musi",
+              "english": "fun, playing, game, recreation, art, entertainment"
+            },
+            {
+              "tokiPona": "pali",
+              "english": "do, make, build, create"
+            },
+            {
+              "tokiPona": "wawa",
+              "english": "energy, strength, power, strong"
+            }
+          ]
+        },
+        {
+          "challenges": [
+            {
+              "tokiPona": "sina wile ala wile moku",
+              "english": "Do you want to eat?"
+            },
+            {
+              "tokiPona": "sina pilin pona ala pona",
+              "english": "Are you feeling OK?"
+            },
+            {
+              "tokiPona": "mi lape alajan utala li seli ala seli e tomo",
+              "english": "I'm not sleepingIs the warrior burning the house"
+            },
+            {
+              "tokiPona": "mi wile ala palisina wile toki e tan tawa mi",
+              "english": "I don't want to workYou ahve to tell me why"
+            },
+            {
+              "tokiPona": "ni li jan ala jan",
+              "english": "Is this a person?"
+            },
+            {
+              "tokiPona": "sina wile ala wile moku",
+              "english": "Do you want to eat?"
+            },
+            {
+              "tokiPona": "ni li kili ala kili",
+              "english": "Is this a banana?"
+            },
+            {
+              "tokiPona": "mi wile ala tawa musi",
+              "english": "I don't want to dance"
+            },
+            {
+              "tokiPona": "pona li kama ala kama",
+              "english": "Is the good coming?"
+            },
+            {
+              "tokiPona": "mi musi ala",
+              "english": "I'm not having fun"
+            },
+            {
+              "tokiPona": "mi pona ala pona tawa sina",
+              "english": "Do you like me?"
+            },
+            {
+              "tokiPona": "ona li lon ala lon tomo",
+              "english": "Is he in the house?"
+            },
+            {
+              "tokiPona": "pipi li moku ala moku e kili",
+              "english": "Are the bugs eating the fruit?"
+            },
+            {
+              "tokiPona": "sina pona ala pona e ilo",
+              "english": "Are you fixing the tool?"
+            }
+          ]
+        },
+        {
+          "challenges": [
+            {
+              "tokiPona": "suno li suli ala suli",
+              "english": "Is the sun big?"
+            },
+            {
+              "tokiPona": "sina sona ala sona e toki mi",
+              "english": "Do you understand what I'm saying?"
+            },
+            {
+              "tokiPona": "ona li mama ala mama",
+              "english": "Is she a  mother?"
+            },
+            {
+              "tokiPona": "sina lukin ala lukin e kiwen",
+              "english": "Do you see the rock?"
+            },
+            {
+              "tokiPona": "ni li telo nasa ala telo nasa",
+              "english": "Is this alcohol?"
+            },
+            {
+              "tokiPona": "sina kama ala kama jo e pali ni",
+              "english": "Did you get this job?"
+            },
+            {
+              "tokiPona": "len sina li jo ala jo e telo",
+              "english": "Are your clothes wet?"
+            },
+            {
+              "tokiPona": "sina sewi ala sewi",
+              "english": "Are you up?"
+            },
+            {
+              "tokiPona": "jan ala li toki",
+              "english": "Nobody is talking"
+            },
+            {
+              "tokiPona": "sina pana ala pana e moku tawa jan lili",
+              "english": "Did you give food to the child?"
+            },
+            {
+              "tokiPona": "ala li jaki",
+              "english": "Nothing is dirty"
+            },
+            {
+              "tokiPona": "sina kepeken ala kepeken ilo",
+              "english": "Are you using the tool?"
+            },
+            {
+              "tokiPona": "mi wawa ala",
+              "english": "I'm not strong"
+            },
+            {
+              "tokiPona": "sina ken ala ken lape",
+              "english": "Can you sleep?"
+            }
+          ]
+        },
+        {
+          "challenges": [
+            {
+              "tokiPona": "sina pilin pona ala pona",
+              "english": "Are you feeling OK?"
+            },
+            {
+              "tokiPona": "jan utala li seli ala seli e tomo",
+              "english": "Is the warrior burning the house"
+            },
+            {
+              "tokiPona": "sina wile toki e tan tawa mi",
+              "english": "You have to tell me why"
+            },
+            {
+              "tokiPona": "sina ken ala ken kama",
+              "english": "Can you come?"
+            },
+            {
+              "tokiPona": "ona li tawa telo ala",
+              "english": "He didn't go to the lake"
+            },
+            {
+              "tokiPona": "jan lili li ken ala moku e telo nasa",
+              "english": "Children can't drink beer"
+            },
+            {
+              "tokiPona": "pipi li lon ala lon poka mi",
+              "english": "Is a bug beside me?"
+            },
+            {
+              "tokiPona": "sina wile ala wile pali. wile ala",
+              "english": "Do you want to go to work? No"
+            },
+            {
+              "tokiPona": "mi ken ala lape",
+              "english": "I can't sleep"
+            },
+            {
+              "tokiPona": "sina kepeken ala kepeken ni",
+              "english": "Are you using that?"
+            },
+            {
+              "tokiPona": "mi wile ala toki tawa sina",
+              "english": "I don't want to talk to you"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
